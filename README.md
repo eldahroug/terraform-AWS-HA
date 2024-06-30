@@ -1,12 +1,14 @@
 # terraform-AWS-HA
 
-AAWS Infrastructure with Terraform
+AWS Infrastructure with Terraform
 
 This project sets up an AWS infrastructure using Terraform, including a VPC, subnets, an internet gateway, a NAT gateway, security groups, EC2 instances, and an Application Load Balancer (ALB).
 Prerequisites
 
     Terraform
     AWS credentials configured
+![image](https://github.com/eldahroug/terraform-AWS-HA/assets/32451529/561892de-2718-41e1-a593-5d13cd71cadd)
+
 
 Usage
 
